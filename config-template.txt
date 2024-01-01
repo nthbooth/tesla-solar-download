@@ -1,0 +1,4 @@
+[dbconfig]
+db=power
+dbuser=power
+dbpasswd=dbpassword
